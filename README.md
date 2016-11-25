@@ -1,1 +1,2 @@
-# JavaInstanceofKnowledge
+# JavaInstanceofKnowledge 
+与LearningNote相对应，这里展示LearningNote的实例
